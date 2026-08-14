@@ -1,3 +1,15 @@
-cor-diferente{
-    color: red;
+h1{
+ color: black;
+}
+
+body{
+    background-color: white;
+}
+
+body.cor-diferente{
+    background-color: black;
+}
+
+h1.cor-diferente{
+    color: white;
 }
